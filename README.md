@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ahmadnadeem6236
-- 👀 I’m interested in ... Coding   
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ...website which are yet to create
+- 🧑🏻‍💻 I am Software Engineer  
 - 📫 How to reach me ... you can reach me at ahmadnadeem6236@gmail.com
+- 💼 [Nadeem Ahmad](https://portfolio-sable-kappa-63.vercel.app/)
 
 <!---
 ahmadnadeem6236/ahmadnadeem6236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
